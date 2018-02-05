@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{index.html}
+=Haoyun Lei, [https://www.bio.cmu.edu/laboratories/schwartz Dr. Schwartz Lab ] 
+
+~~~
+{}{img_left}{biopic.png}{alt text}{130}{150}
+PhD Student in [http://www.compbio.cmu.edu Computational Biology]\n
+[http://www.cbd.cmu.edu/ Computational Biology Department]\n
+[https://www.scs.cmu.edu/ School of Computer Science]\n
+[https://www.cmu.edu/ Carnegie Mellon University]\n\n
+Advisor: [http://www.cs.cmu.edu/~russells/ Professor Russell Schwartz]
+~~~
+
+== About me
+I am currently a second-year Ph.D. student in Computational Biology at Carnegie Mellon 
+University. I got my B.S. degree in Biological Science from [http://english.hust.edu.cn/ Huazhong University of Science and Technology] in 2012. 
+I spent three years working as a research scholar in [http://english.hust.edu.cn/ University of Michigan], investigated 
+the neuron mechanism in /Caenorhabditis elegans/. Then I started my research in Computational Biology.
+
+== Research
+My current project is 
+to design a better algorithm to restore accurate copy number variations (CNVs) of genes 
+in single cell data from bulk tumor data.\n\n
+My interests lie in
+- Bulk Tumor Data Matrix Decompostion
+- Tumor Feature Dimension Reduction
+- Tumor Phylogenetic Tree Construction
+
+
+
+== Contact
+[https://www.google.com/maps?q=4400+fifth+avenue&um=1&ie=UTF-8&sa=X&ved=0ahUKEwj9vPTj9IXZAhUCheAKHcOCAWIQ_AUICigB 654F, 
+Mellon Institute], Carnegie Mellon University, Pittsburgh, PA, 15213\n
+Email: haoyunl\[@\]andrew\[DOT\]cmu\[DOT\]edu
+
