@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{biopic.png}{alt text}{130}{150}
-PhD Student in [http://www.compbio.cmu.edu Computational Biology]\n
+PhD Student in [http://www.compbio.cmu.edu Joint Carnegie Mellon/University of Pittsburgh Ph.D. Programming in Computational Biology (CPCB)]\n
 [https://www.bio.cmu.edu/laboratories/schwartz Dr. Schwartz Lab]\n
 [http://www.cbd.cmu.edu/ Computational Biology Department]\n
 [https://www.scs.cmu.edu/ School of Computer Science]\n
@@ -12,19 +12,24 @@ Advisor: [http://www.cs.cmu.edu/~russells/ Professor Russell Schwartz]
 ~~~
 
 == About me
-I am currently a second-year Ph.D. student in Computational Biology at Carnegie Mellon 
+I am currently a fourth-year Ph.D. student in Computational Biology at Carnegie Mellon 
 University. I got my B.S. degree in Biological Science from [http://english.hust.edu.cn/ Huazhong University of Science and Technology] in 2012. 
 I spent three years working as a research scholar in [https://www.umich.edu/ University of Michigan], investigated 
 the neuron mechanism in /Caenorhabditis elegans/. Then I started my research in Computational Biology.
 
 == Research
-My current project is 
-to design a better algorithm to restore accurate copy number variations (CNVs) of genes 
-in single cell data from bulk tumor data.\n\n
-My interests lie in
+My research goal is to design algorithms to combine multiple types of genomic data such as bulk tumor sequencing, single-cell sequencing, 
+fluorescent /in situ/ hybridization data to study the tumor heterogeneity and restore accurate genomic profiles such as copy number variations (CNVs) 
+in the important clones during tumor evolution.\n\n
+The relative fields lie in
 - Bulk Tumor Data Matrix Decompostion
 - Tumor Feature Dimension Reduction
 - Tumor Phylogenetic Tree Construction
+- Feature Detection and Extraction
+- Classification and Clustering
+- Combinatorial Optimization
+- Mixed Linear Programming
+- Graph Model
 
 
 
