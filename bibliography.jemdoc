@@ -6,19 +6,37 @@ in Computational Biology, the other is for the work when I worked in Neuroscienc
 
 
 == Computational Biology
-=== Peer-reviewed articles
-- Tao, Y., *Lei, H.*, Lee, A., Ma, J., and Schwartz, R. (2019). Phylogenies Derived from Matched Transcriptome
-   Reveal \n
-   the Evolution of Cell Populations and Temporal Order of Perturbed Pathways in Breast Cancer Brain 
-  Metastases\n
-  (submitted to *ISMCO’19*)
+=== Articles
+- Tao, Y., *Lei, H.*, Fu, X., Lee, A. V., Ma, J., and Schwartz, R. (2020). \[[4.pdf pdf]\]\n
+Robust and accurate deconvolution of tumor populations uncovers evolutionary mechanisms \n
+of breast cancer metastasis. \n
+*ISMB2020*, /Bioinformatics/, /36/, i407-i416.
+
 - *Lei, H.*, Lyu, B., Gertz, E., Schaffer, A., Shi, X., Wu, K., Li, G., Xu, L, Hou, Y., Dean, M., and   
-Schwartz, R. (2018). \n
+Schwartz, R. (2020). \[[5.pdf pdf]\]\n
 Tumor Copy Number Deconvolution Integrating Bulk and Single-Cell    
 Sequencing Data \n
-(*RECOMB 2019*, accepted by /Journal of Computational Biology/ as special issue)
+*RECOMB 2019*, /Journal of Computational Biology/, /27/(4) 565-598.
+
+- Tao, Y., *Lei, H.*, Lee, A. V., Ma, J., and Schwartz, R. (2020). \[[6.pdf pdf]\]\n
+Neural Network Deconvolution Method for Resolving Pathway-Level Progression of Tumor Clonal Expression Programs \n
+with Application to Breast Cancer Brain Metastases. \n
+/Frontiers in Physiology/, /11/, 1055.
+
+- *Lei, H.*, Gertz, E. M., Schäffer, A. A., Fu, X., Tao, Y., Heselmeyer-Haddad, K., ... and Schwartz, R. (2020). \n
+Tumor heterogeneity assessed by sequencing and fluorescence /in situ/ hybridization (FISH) data. \n
+/bioRxiv/.
+
+- Tao, Y., *Lei, H.*, Lee, A. V., Ma, J., and Schwartz, R. (2019). \n
+Phylogenies derived from matched transcriptome reveal the evolution of cell populations and temporal order of perturbed pathways \n
+in breast cancer brain metastases. In /International Symposium on Mathematical and Computational Oncology/ (pp. 3-28). Springer, Cham.
 
 === Abstracts
+- Fu, X., *Lei, H.*, and Schwartz, R. (2020, July) \n
+Joint Clustering of single cell sequencing and fluorescence /in situ/ hybridization data to infer\n
+tumor copy number phylogenies.\n
+Conference on Intelligent System for Molecular Biology (ISMB), virtual.
+
 - *Lei, H.*, Lyu, B., Gertz, E., Schaffer, A., and Schwartz, R. (2018, October). \n
 Tumor Copy Number Data Deconvolution Integrating Bulk and Single-cell Sequencing Data. \n
 In 2018 IEEE 8th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS) (pp. 1-1). IEEE.
@@ -38,7 +56,7 @@ Conference on Intelligent System for Molecular Biology (ISMB), Chicago, IL.
 
 
 == Neuroscience 
-=== Peer-reviewed articles
+=== Articles
 - Li, G., Gong, J., *Lei, H.*, Liu, J., and Xu, X. S. (2016). \[[1.pdf pdf]\]\n 
 Promotion of behavior and neuronal function by reactive oxygen species in C. elegans. \n
 /Nature communications/, /7/, 13234

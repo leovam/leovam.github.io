@@ -12,24 +12,27 @@ Advisor: [http://www.cs.cmu.edu/~russells/ Professor Russell Schwartz]
 ~~~
 
 == About me
-I am currently a fourth-year Ph.D. student in Computational Biology at Carnegie Mellon 
+I am currently a fifth-year Ph.D. student in Computational Biology at Carnegie Mellon 
 University. I got my B.S. degree in Biological Science from [http://english.hust.edu.cn/ Huazhong University of Science and Technology] in 2012. 
 I spent three years working as a research scholar in [https://www.umich.edu/ University of Michigan], investigated 
 the neuron mechanism in /Caenorhabditis elegans/. Then I started my research in Computational Biology.
 
 == Research
-My research goal is to design algorithms to combine multiple types of genomic data such as bulk tumor sequencing, single-cell sequencing, 
-fluorescent /in situ/ hybridization data to study the tumor heterogeneity and restore accurate genomic profiles such as copy number variations (CNVs) 
-in the important clones during tumor evolution.\n\n
+My research goal is mainly to design algorithms to combine multiple types of genomic data such as bulk tumor sequencing, single-cell sequencing, 
+fluorescent /in situ/ hybridization data to study the tumor heterogeneity and infer accurate genomic profiles such as single nucleotide variants (SNVs), copy number variations (CNVs) 
+and structural variants (SVs) in the important clones during tumor evolution. This inference may help to study and predict cancer progress. Also, I am interested in Computer Vision and Natural Language Processing since I 
+realized that tumor imaging and doctor diagonsis notes may be very helpful in predicting and classifying cancers.  \n\n
 The relative fields lie in
 - Bulk Tumor Data Matrix Decompostion
-- Tumor Feature Dimension Reduction
 - Tumor Phylogenetic Tree Construction
 - Feature Detection and Extraction
 - Classification and Clustering
 - Combinatorial Optimization
 - Mixed Linear Programming
+- Non-convex Optimization
 - Graphical Model
+- Computer Vision
+- Natural Language processing
 
 
 

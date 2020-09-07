@@ -1,0 +1,33 @@
+=Work
+~~~
+- *Bioinformatics Summer Intern*\n
+    [https://www.labcorp.com/ LabCorp], May 2020 - July 2020\n
+    /Westborough, Massachusetts, United States/\n
+    */Roles & Projects/:*\n
+    -- Benchmarking CNV detection tools:\n
+    --- Tested and compared public CNV detection tools for calling CNVs in targeted NGS data with a very small panel\n
+    --- Managed to match the best references for each test sample\n
+    --- Explored combinations of parameters of tools to increase true positive detection\n
+    --- Designed algorithms to rescue and recover CNVs with a weaker signal in a very small panel of targets\n
+    --- Reached over 94\% in sensitivity while kept specificity around 90\%\n
+    -- Converting free-text patient data to ICD codes using natural language processing\n
+    --- Explore language models to annotate and chunk the important information in LabCorp’s patient medical text\n
+    --- Fine-tuned BERT model on ICD-10 code classification at chapter and block (first three characters) level\n
+    --- Designed a two-step BERT model to predict multiple ICD-10 codes in LabCorp’s patient medical text\n
+    --- Managed to work on a small dataset and reached ~84% in chapter level clarification (using Label Ranking Average Precision as the metric)\n
+
+
+
+- *Research Scholar*\n
+   University of Michigan, Sep 2012 - Nov 2015\n
+   /Ann Arbor, Michigan, United States/\n
+   */Roles & Projects/:*\n
+   -- Conducted patch-clamp on muscle cells and neurons in C.elegans\n
+   -- Found muscle cells decay faster than neurons\n
+   -- Found the key regulator of this aging decay\n
+   -- Found a neuronal pathway of C.elegans in a chronic stressful environment\n
+   -- Other work and responsibilities include: \n
+   --- conducted literatures search on relevant fields and experiment design\n
+   --- analyzed the data and wrote reports of progress \n
+   --- helped other lab members design and finish upstream experiments
+
