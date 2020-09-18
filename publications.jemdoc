@@ -1,4 +1,4 @@
-=Bibliography
+=Publications & Talks
 ~~~
 
 I separated this section into two parts, one is for the work 
@@ -6,7 +6,7 @@ in Computational Biology, the other is for the work when I worked in Neuroscienc
 
 
 == Computational Biology
-=== Articles
+=== Articles 
 - Tao, Y., *Lei, H.*, Fu, X., Lee, A. V., Ma, J., and Schwartz, R. (2020). \[[4.pdf pdf]\]\n
 Robust and accurate deconvolution of tumor populations uncovers evolutionary mechanisms \n
 of breast cancer metastasis. \n
@@ -31,23 +31,31 @@ Tumor heterogeneity assessed by sequencing and fluorescence /in situ/ hybridizat
 Phylogenies derived from matched transcriptome reveal the evolution of cell populations and temporal order of perturbed pathways \n
 in breast cancer brain metastases. In /International Symposium on Mathematical and Computational Oncology/ (pp. 3-28). Springer, Cham.
 
-=== Abstracts
+=== Abstracts & Talks
+- *Lei, H.*, Gertz, E. M., Schäffer, A. A., Fu, X., Tao, Y., Heselmeyer-Haddad, K., … and Schwartz, R. (2020, July). \n
+Tumor heterogeneity assessed by sequencing and fluorescence in situ hybridization (FISH) data. \n
+Conference on Intelligent System for Molecular Biology (ISMB), virtual
+
 - Fu, X., *Lei, H.*, and Schwartz, R. (2020, July) \n
 Joint Clustering of single cell sequencing and fluorescence /in situ/ hybridization data to infer\n
 tumor copy number phylogenies.\n
-Conference on Intelligent System for Molecular Biology (ISMB), virtual.
+ISMB, virtual.
+
+- *Lei, H.*, Lyu, B., Gertz, E., Schӓffer, A., Shi, X., Wu, K., Li, G., Xu, L, Hou, Y., Dean, M., and Schwartz, R. (2019, May).\n
+ Tumor Copy Number Deconvolution Integrating Bulk and Single-Cell Sequencing Data. \n 
+ International Conference on Research in Computational Molecular Biology (RECOMB), Washington, DC. 
 
 - *Lei, H.*, Lyu, B., Gertz, E., Schaffer, A., and Schwartz, R. (2018, October). \n
 Tumor Copy Number Data Deconvolution Integrating Bulk and Single-cell Sequencing Data. \n
-In 2018 IEEE 8th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS) (pp. 1-1). IEEE.
+In 2018 IEEE 8th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), Las Vegas, NV
 
 - *Lei, H.*, Roman, T., Eaton, J., and Schwartz, R. (2018, July). \n
-New directions in deconvolving genomic mixtures of copy number variation data. \n
-SIAM Conference on Discrete Mathematics, Denver, CO.
+Deconvolution of tumor copy number data using bulk and single-cell sequencing data. \n
+ISMB, Chicago, IL.
 
 - *Lei, H.*, Roman, T., Eaton, J., and Schwartz, R. (2018, April). \n
-Deconvolution of tumor copy number data using bulk and single-cell sequencing data. \n
-Conference on Intelligent System for Molecular Biology (ISMB), Chicago, IL.
+New directions in deconvolving genomic mixtures of copy number variation data. \n
+SIAM Conference on Discrete Mathematics, Denver, CO.
 
 
 

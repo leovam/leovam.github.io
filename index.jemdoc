@@ -20,19 +20,20 @@ the neuron mechanism in /Caenorhabditis elegans/. Then I started my research in 
 == Research
 My research goal is mainly to design algorithms to combine multiple types of genomic data such as bulk tumor sequencing, single-cell sequencing, 
 fluorescent /in situ/ hybridization data to study the tumor heterogeneity and infer accurate genomic profiles such as single nucleotide variants (SNVs), copy number variations (CNVs) 
-and structural variants (SVs) in the important clones during tumor evolution. This inference may help to study and predict cancer progress. Also, I am interested in Computer Vision and Natural Language Processing since I 
-realized that tumor imaging and doctor diagonsis notes may be very helpful in predicting and classifying cancers.  \n\n
-The relative fields lie in
-- Bulk Tumor Data Matrix Decompostion
+and structural variants (SVs) in the important clones during tumor evolution. This inference can help to study and predict cancer progress. Also, I am interested in Computer Vision and Natural Language Processing since I 
+realized that tumor imaging and doctor diagonsis notes are very helpful in predicting and classifying cancers.  \n\n
+My interests lie in
+- Bulk Tumor Deconvolution
 - Tumor Phylogenetic Tree Construction
-- Feature Detection and Extraction
-- Classification and Clustering
+- Machine Learning
+- Deep Learning
 - Combinatorial Optimization
 - Mixed Linear Programming
 - Non-convex Optimization
-- Graphical Model
 - Computer Vision
 - Natural Language processing
+- Feature Detection and Extraction
+- Classification and Clustering
 
 
 
