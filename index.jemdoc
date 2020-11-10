@@ -3,13 +3,21 @@
 =Haoyun Lei
 
 ~~~
-{}{img_left}{biopic.png}{alt text}{130}{150}
+{}{img_left}{imgs/portrait/biopic.png}{alt text}{150}{180}
 PhD Student in [http://www.compbio.cmu.edu Joint Carnegie Mellon/University of Pittsburgh Ph.D. Programming in Computational Biology (CPCB)]\n
 [https://www.bio.cmu.edu/laboratories/schwartz Dr. Schwartz Lab]\n
 [http://www.cbd.cmu.edu/ Computational Biology Department]\n
 [https://www.scs.cmu.edu/ School of Computer Science]\n
 [https://www.cmu.edu/ Carnegie Mellon University]\n\n
 Advisor: [http://www.cs.cmu.edu/~russells/ Professor Russell Schwartz]
+{{
+<p>
+    <a href="https://scholar.google.com/citations?user=nHjBY9oAAAAJ&hl=en"><img src="imgs/icon2/grey-scholar3.png" height="30px"></a>
+    <a href="https://github.com/leovam"><img src="imgs/icon2/grey-github.png" height="30px"></a>
+    <a href="https://www.linkedin.com/in/haoyunlei/"><img src="imgs/icon2/grey-linkedin.png" height="30px"></a>
+    <a href="http://www.cs.cmu.edu/~haoyunl/"><img src="imgs/icon/grey-home.png" height="30px"></a>
+</p>}}
+
 ~~~
 
 == About me
@@ -43,12 +51,10 @@ My interests lie in
 Mellon Institute], Carnegie Mellon University, Pittsburgh, PA, 15213\n
 Email: haoyunl\[@\]andrew\[DOT\]cmu\[DOT\]edu (school)\n
        leovam171\[@\]gmail\[DOT\]com (personal)\n
-Website: [https://leovam.github.io leovam.github.io]
-
 ~~~
 {}{raw}
     <div id="footer">
         <div id="footer-text"></div>
     </div>
-© Haoyun Lei| Last updated: 11/08/2020 </center>
+© Haoyun Lei| Last updated: 11/10/2020 </center>
 ~~~
