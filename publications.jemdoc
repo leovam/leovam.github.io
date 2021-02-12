@@ -8,6 +8,15 @@ in Computational Biology, the other is for the work when I worked in Neuroscienc
 
 == Computational Biology
 === Articles 
+- *Lei, H.*, Gertz, E. M., Schäffer, A. A., Fu, X., Tao, Y., Heselmeyer-Haddad, K., ..., and Schwartz, R. (2021). \n
+Tumor heterogeneity assessed by sequencing and fluorescence in situ hybridization (FISH) data.\n
+/bioRxiv (under review with Bioinformatics)/
+
+- Fu, X., *Lei, H.*, Tao, Y., Heselmeyer-Haddad, K., Li, G., Shi, X., Xu, L., Torres, I., Hou, Y., Wu, K., Dean, M., Ried, T.,
+and Schwartz, R. (2021). \n
+Joint clustering of single cell sequencing and fluorescence in situ hybridization data to infer tumor copy number phylogenies.\n
+/bioRxiv (submitted to ISMB\/ECCB 2021)/
+
 - Tao, Y., *Lei, H.*, Fu, X., Lee, A. V., Ma, J., and Schwartz, R. (2020). \[[doc/papers/4.pdf pdf]\]\n
 Robust and accurate deconvolution of tumor populations uncovers evolutionary mechanisms \n
 of breast cancer metastasis. \n
@@ -23,10 +32,6 @@ Sequencing Data \n
 Neural Network Deconvolution Method for Resolving Pathway-Level Progression of Tumor Clonal Expression Programs \n
 with Application to Breast Cancer Brain Metastases. \n
 /Frontiers in Physiology/, /11/, 1055.
-
-- *Lei, H.*, Gertz, E. M., Schäffer, A. A., Fu, X., Tao, Y., Heselmeyer-Haddad, K., ... and Schwartz, R. (2020). \n
-Tumor heterogeneity assessed by sequencing and fluorescence /in situ/ hybridization (FISH) data. \n
-/bioRxiv/.
 
 - Tao, Y., *Lei, H.*, Lee, A. V., Ma, J., and Schwartz, R. (2019). \n
 Phylogenies derived from matched transcriptome reveal the evolution of cell populations and temporal order of perturbed pathways \n
