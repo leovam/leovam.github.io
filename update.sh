@@ -1,10 +1,10 @@
 #!/bin/bash
 
-python jemdoc.py courses.jemdoc 
-python jemdoc.py services.jemdoc 
-python jemdoc.py work.jemdoc 
-python jemdoc.py teaching.jemdoc 
-python jemdoc.py publications.jemdoc 
-python jemdoc.py Misc.jemdoc 
-python jemdoc.py MENU
-python jemdoc.py index.jemdoc 
+python2 jemdoc.py courses.jemdoc 
+python2 jemdoc.py services.jemdoc 
+python2 jemdoc.py work.jemdoc 
+python2 jemdoc.py teaching.jemdoc 
+python2 jemdoc.py publications.jemdoc 
+python2 jemdoc.py Misc.jemdoc 
+python2 jemdoc.py MENU
+python2 jemdoc.py index.jemdoc 
