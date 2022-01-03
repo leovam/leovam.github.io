@@ -3,12 +3,18 @@
 ~~~
 
 Journal Reviewer:
+- {{<div style="float:left; text-align:left"><a herf="https://www.journals.elsevier.com/hardwarex">HardwareX</a></div>
+    <div style="float:right; text-align:right">2022</div> }}
+- {{<div style="float:left; text-align:left"><a herf="https://www.sciencedirect.com/journal/computers-in-biology-and-medicine">Computers in Biology and Medicine</a></div>
+    <div style="float:right; text-align:right">2022, 2021</div> }}
+- {{<div style="float:left; text-align:left"><a herf="https://www.hindawi.com/journals/cmmm/">Computational and Mathematical Methods in Medicine</a></div>
+    <div style="float:right; text-align:right">2021</div> }}
+- {{<div style="float:left; text-align:left"><a herf="https://www.hindawi.com/journals/bmri/">BioMed Research International</a></div>
+    <div style="float:right; text-align:right">2022, 2021, 2020</div> }}
 - {{<div style="float:left; text-align:left"><a herf="https://www.worldscientific.com/worldscinet/ijmssc">International Journal of Modeling, Simulation, and Scientific Computing</a></div>
     <div style="float:right; text-align:right">2021</div> }}
 - {{<div style="float:left; text-align:left"><a herf="https://www.frontiersin.org/journals/oncology">Frontiers in Oncology</a></div>
     <div style="float:right; text-align:right">2021</div> }}
-- {{<div style="float:left; text-align:left"><a herf="https://www.hindawi.com/journals/bmri/">BioMed Research International</a></div>
-    <div style="float:right; text-align:right">2021, 2020</div> }}
 - {{<div style="float:left; text-align:left"><a herf="https://academic.oup.com/bioinformatics">Bioinformatics</a></div>
     <div style="float:right; text-align:right">2021, 2020</div> }}
 - {{<div style="float:left; text-align:left"><a herf="https://www.frontiersin.org/journals/genetics">Frontiers in Genetics</a></div>
@@ -21,7 +27,7 @@ Conference Reviewer:
 - {{<div style="float:left; text-align:left"> International Symposium on Bioinformatics Research and Applications (ISBRA) </div>
     <div style="float:right; text-align:right">2021*</div> }}
 - {{<div style="float:left; text-align:left"> International Conference on Research in Computational Molecular Biology (RECOMB) </div>
-    <div style="float:right; text-align:right">2020*, 2018*, 2017*</div> }}
+    <div style="float:right; text-align:right">2021*, 2020*, 2018*, 2017*</div> }}
 - {{<div style="float:left; text-align:left"> International Conference on Intelligent Systems for Molecular Biology (ISMB) </div>
     <div style="float:right; text-align:right">2019*</div> }}
 - {{<div style="float:left; text-align:left"> Workshop on Algorithms in Bioinformatics (WABI) </div>
